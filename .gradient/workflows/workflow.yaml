@@ -1,3 +1,4 @@
+# Modify to trigger an event
 'on':
   github:
     branches:
